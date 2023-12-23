@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-**28emon/28EMON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Md. Emon Miah
 
 Here are some ideas to get you started:
 
